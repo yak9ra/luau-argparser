@@ -1,7 +1,7 @@
 --!strict
 
 -- [ LOGIC ]
-local Utils = require("./Utils")
+local Utils = require("@Utils")
 
 -- [ TYPES ]
 type Array<T> = {[number]:T}
